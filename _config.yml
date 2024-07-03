@@ -163,7 +163,7 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - docs/_pages
+  - /docs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
